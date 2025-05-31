@@ -2,8 +2,10 @@
 
 ## Overview
 This project is a simple TODO list application built with a Python backend using FastAPI, and a frontend using HTML, CSS, and JavaScript. It allows users to create, read, update, and delete (CRUD) tasks, with the backend handling data storage and the frontend providing a user-friendly interface. 
-<!--<img width="1160" alt="Screenshot 2025-05-31 at 11 08 21" src="https://github.com/user-attachments/assets/07d6aaaa-a7e3-4227-82b8-73b93edd35a8" /> -->
+<!--<img width="1160" alt="Screenshot 2025-05-31 at 11 08 21" src="https://github.com/user-attachments/assets/07d6aaaa-a7e3-4227-82b8-73b93edd35a8" /> 
 <img width="1174" alt="Screenshot 2025-05-31 at 11 39 47" src="https://github.com/user-attachments/assets/83842f95-5e0a-492a-8838-11358ab908d8" />
+-->
+<img width="1171" alt="Screenshot 2025-05-31 at 12 34 55" src="https://github.com/user-attachments/assets/ce54f6cd-a995-4359-88db-acb4e2d3dc10" />
 
 
 ## Features
