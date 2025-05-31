@@ -70,13 +70,15 @@ todo-list/
 ├── todo-backend/
 │   ├── main.py          # FastAPI backend entry point
 │   ├── models.py        # Pydantic models for task data
-│   ├── database.py      # Database setup and connection (e.g., SQLite)
+│   ├── database.py
+|   └── requirements.txt       # Database setup and connection (e.g., SQLite)
 ├── todo-frontend/
-│   ├── index.html       # Main HTML file
-│   ├── styles.css       # CSS for styling
-│   ├── script.js        # JavaScript for frontend logic
+│   ├── src       # Main HTML file
+│   ├── index.css   # CSS for styling
+|   ├── App.js     # JavaScript for frontend logic
+│   ├── index.js        # Root connection
 ├── README.md            # This file
-└── requirements.txt     # Python dependencies
+   # Python dependencies
 ```
 
 ## Usage
