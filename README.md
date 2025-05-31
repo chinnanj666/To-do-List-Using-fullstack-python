@@ -27,7 +27,7 @@ This project is a simple TODO list application built with a Python backend using
 ### Backend Setup
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/chinnanj666/To-do-List-Using-fullstack-python.git
    cd todo-list
    ```
 2. **Create a Virtual Environment**
